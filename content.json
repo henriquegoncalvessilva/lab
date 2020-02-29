@@ -1,6 +1,27 @@
 {
-  
-    "tipo" : "image",
-    "url" : "https://cdn.pixabay.com/photo/2015/08/19/05/17/large-895567_960_720.jpg"
-  
+  "total":5,
+    "totalResultado":5,
+    "hits":[
+        {
+            "tipo":"image",
+            "url":"https://pixabay.com/photos/recife-pernambuco-marco-zero-423709/",
+            
+        },
+        {
+            "tipo":"image",
+            "url":"https://pixabay.com/photos/recife-pernambuco-marco-zero-423709/",
+        },
+        {
+            "tipo":"image",
+            "url":"https://pixabay.com/photos/recife-pernambuco-marco-zero-423709/",
+        },
+        {
+            "tipo":"image",
+            "url":"https://pixabay.com/photos/recife-pernambuco-marco-zero-423709/",
+        },
+        {
+           "tipo":"image",
+            "url":"https://pixabay.com/photos/recife-pernambuco-marco-zero-423709/",
+        }
+    ]
 }
