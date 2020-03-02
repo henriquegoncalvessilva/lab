@@ -3,20 +3,20 @@
     "totalResultado":5,
     "hits":[
         {
-            "tipo":"image",
-            "url":"https://pixabay.com/get/57e6dc434c56ab14f6da8c7dda793277153ed9e0544c704c7d2c7bd4974dcc5b_640.jpg"
+            "tipo":"video",
+            "url":"http://www.clipstill.com/wp-content/uploads/000002_bird_feeding_thumb.mp4"
         },
         {
             "tipo":"video",
             "url":"https://ndownloader.figshare.com/files/12552050/preview/12552050/video_preview.mp4"
         },
         {
-            "tipo":"image",
-            "url":"https://cdn.pixabay.com/photo/2017/08/30/17/26/analytics-2697949__340.jpg"
+            "tipo":"video",
+            "url":"http://www.clipstill.com/wp-content/uploads/000076_snow_kids_thumb.mp4"
         },
         {
             "tipo":"video",
-            "url":"https://storage.googleapis.com/coverr-main/mp4%2Fcoverr-amalfi-coast-1570371443102.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=coverr-183014%40appspot.gserviceaccount.com%2F20200302%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20200302T012515Z&X-Goog-Expires=301&X-Goog-SignedHeaders=host&X-Goog-Signature=13c3b30c88200445de631409f99510e01ed02f9b1cad8493f91f88885c3c8da932c8ed1896e54b4faa03b4c2c4cbaf3b9275fe401cf28a1f6fe18e7181e89a725122b521e41447784a631273bc5f0c09309146cdcb2600a83f85c97dd1372894c12c117761d9d5d5a776c62d8b08aa706515168a7f51d6cc66c5ba2b9b64799f75f8a41da0485aebafe2aec6bbb56f57306e2d376b2da8c8c2992fa5f6c641edccec505e989bf7987f286e49d5365244ebb23de76d21b07acd753a4bda213eda6faadad65a1da93117d7c5778f8b17d3d22c4a8e6a40d1e6bcbdf60e5f46bfb643bd14b6f7d06a2df4f9fb07744d00e2c8ec7137dbc8218039a23de18a6d9615"
+            "url":"http://www.clipstill.com/wp-content/uploads/000077_snow_girl_thumb.mp4"
         },
         {
            "tipo":"video",
