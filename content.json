@@ -4,7 +4,7 @@
     "hits":[
         {
             "tipo":"video",
-            "url":"http://www.clipstill.com/wp-content/uploads/000002_bird_feeding_thumb.mp4"
+            "url":"https://www.w3schools.com/html/mov_bbb.mp4"
         },
         {
             "tipo":"image",
@@ -20,7 +20,7 @@
         },
         {
            "tipo":"video",
-           "url":"https://www.w3schools.com/html/mov_bbb.mp4"
+           "url":"http://www.clipstill.com/wp-content/uploads/000002_bird_feeding_thumb.mp4"
         }
     ]
 }
